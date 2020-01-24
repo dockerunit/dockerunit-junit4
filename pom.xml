@@ -24,7 +24,7 @@
 
   <properties>
     <lombok.version>1.18.8</lombok.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13</junit.version>
   </properties>
 
   <dependencies>
